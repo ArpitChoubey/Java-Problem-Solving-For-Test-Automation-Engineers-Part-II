@@ -159,11 +159,11 @@ Submit a Pull Request
 Your contributions will help others in the testing and developer community learn faster �
 �
 
-🌟 Support & Connect
+🌟 Support & Connect                                                                                                       
 
 If you find this repository useful, please consider starring ⭐ it on GitHub to help others discover it!
 
-Linkedin - https://www.linkedin.com/in/arpitchoubey/  & Medium - https://medium.com/@ArpitChoubey9
+📬 Connect with me on LinkedIn: - https://www.linkedin.com/in/arpitchoubey/  & Medium - https://medium.com/@ArpitChoubey9
 
 
-📬 Connect with me on LinkedIn:
+
