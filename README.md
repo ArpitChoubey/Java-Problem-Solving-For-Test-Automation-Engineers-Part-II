@@ -1,4 +1,5 @@
 A curated collection of hand-picked Java programs designed to strengthen your programming logic and boost your interview confidence.
+
 🧠 About This Repository
 
 This repository contains practical Java programs covering core concepts, data structures, string manipulation, sorting algorithms, and logical problem-solving — all tailored for Software Test Engineers, Automation Testers, SDETs, and Java learners preparing for interviews.
@@ -19,93 +20,93 @@ Every program is self-contained, well-commented, and focuses on interview-specif
 
 Here’s what this collection covers (each program is in a separate file for easy navigation):
 
-Create an ArrayList of fruits, convert it into an array, and print all elements.
+1. Create an ArrayList of fruits, convert it into an array, and print all elements.
 
-Accept rows and columns from the user to build and print a 2D matrix.
+2. Accept rows and columns from the user to build and print a 2D matrix.
 
-Convert a string array to ArrayList using Arrays.asList() and print all elements.
+3. Convert a string array to ArrayList using Arrays.asList() and print all elements.
 
-Check if parentheses () { } [ ] in a string are balanced using a Stack.
+4. Check if parentheses () { } [ ] in a string are balanced using a Stack.
 
-Convert a binary number to decimal using Integer.parseInt().
+5. Convert a binary number to decimal using Integer.parseInt().
 
-Sort an array using Bubble Sort.
+6.Sort an array using Bubble Sort.
 
-Build a Simple Calculator performing +, −, ×, ÷ operations using user input.
+7.Build a Simple Calculator performing +, −, ×, ÷ operations using user input.
 
-Validate if a string contains only digits.
+8. Validate if a string contains only digits.
 
-Count set bits (1s) in a binary representation of an integer.
+9. Count set bits (1s) in a binary representation of an integer.
 
-Find duplicate elements in an array using a HashSet.
+10. Find duplicate elements in an array using a HashSet.
 
-Create a dynamic array from user input and display all values.
+11. Create a dynamic array from user input and display all values.
 
-Classic FizzBuzz problem (1 to 100).
+12. Classic FizzBuzz problem (1 to 100).
 
-Compute GCD (Greatest Common Divisor) of two numbers.
+13. Compute GCD (Greatest Common Divisor) of two numbers.
 
-Demonstrate a HashMap storing employee IDs and names.
+14.Demonstrate a HashMap storing employee IDs and names.
 
-Implement a custom version of atoi() (convert string to integer).
+15.Implement a custom version of atoi() (convert string to integer).
 
-Implement strStr() to find substring index.
+16. Implement strStr() to find substring index.
 
-Sort an array using Insertion Sort.
+17. Sort an array using Insertion Sort.
 
-Calculate LCM (Least Common Multiple) of two integers.
+18. Calculate LCM (Least Common Multiple) of two integers.
 
-Find the longest common prefix among an array of strings.
+19. Find the longest common prefix among an array of strings.
 
-Demonstrate LinkedList creation and manipulation (add, remove, display).
+20. Demonstrate LinkedList creation and manipulation (add, remove, display).
 
-Input a 2D matrix and print its transpose.
+21. Input a 2D matrix and print its transpose.
 
-Move all zeros to the end of an array.
+22. Move all zeros to the end of an array.
 
-Reverse a name string input by the user.
+23. Reverse a name string input by the user.
 
-Count occurrences of each character using a HashMap.
+24. Count occurrences of each character using a HashMap.
 
-Generate Pascal’s Triangle.
+25. Generate Pascal’s Triangle.
 
-Print numbers from 1 to N using recursion.
+26. Print numbers from 1 to N using recursion.
 
-Print different star and number patterns using nested loops.
+27. Print different star and number patterns using nested loops.
 
-Remove negative numbers from an array, sort, and display results.
+28. Remove negative numbers from an array, sort, and display results.
 
-Remove vowels from a string.
+29. Remove vowels from a string.
 
-Replace all vowels with ‘*’ and display the new string.
+30. Replace all vowels with ‘*’ and display the new string.
 
-Reverse a string using StringBuilder/StringBuffer reverse().
+31. Reverse a string using StringBuilder/StringBuffer reverse().
 
-Reverse elements in an ArrayList or LinkedList.
+32. Reverse elements in an ArrayList or LinkedList.
 
-Reverse the order of words in a sentence.
+33. Reverse the order of words in a sentence.
 
-Rotate an array by K positions (left or right).
+34. Rotate an array by K positions (left or right).
 
-Sort an array using Selection Sort.
+35. Sort an array using Selection Sort.
 
-Sort arrays or strings using Arrays.sort().
+36. Sort arrays or strings using Arrays.sort().
 
-Sort an ArrayList in ascending and descending order.
+37. Sort an ArrayList in ascending and descending order.
 
-Sort an array of strings alphabetically.
+38. Sort an array of strings alphabetically.
 
-Print a rectangle star pattern based on user input.
+39. Print a rectangle star pattern based on user input.
 
-Check if one string is a rotation of another.
+40. Check if one string is a rotation of another.
 
-Convert a numeric string to an integer manually (without parsing).
+41. Convert a numeric string to an integer manually (without parsing).
 
-Remove leading and trailing spaces without using trim().
+42.Remove leading and trailing spaces without using trim().
 
-Merge two arrays and display the union (remove duplicates).
+43. Merge two arrays and display the union (remove duplicates).
 
-Find all unique characters in a string.
+44. Find all unique characters in a string.
 
 💻 Tech Stack Used
 
@@ -155,10 +156,14 @@ Add your solution
 
 Submit a Pull Request
 
-Your contributions will help others in the testing and developer community learn faster 🚀
+Your contributions will help others in the testing and developer community learn faster �
+�
 
 🌟 Support & Connect
 
 If you find this repository useful, please consider starring ⭐ it on GitHub to help others discover it!
+
+Linkedin - https://www.linkedin.com/in/arpitchoubey/  & Medium - https://medium.com/@ArpitChoubey9
+
 
 📬 Connect with me on LinkedIn:
